@@ -7,8 +7,8 @@ O objetivo é demonstrar minha base técnica, organização de código e atenç�
 
 ## ✨ Preview
 
-🔗 Deploy: *(adicione aqui o link quando publicar)*  
-📦 Repositório: *(este repositório)*
+🔗 Deploy: **  
+📦 Repositório: *(https://github.com/joaopedro-16/portfolio)*
 
 ---
 
