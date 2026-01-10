@@ -7,7 +7,7 @@ O objetivo é demonstrar minha base técnica, organização de código e atenç�
 
 ## ✨ Preview
 
-🔗 Deploy: **  
+🔗 Deploy: *https://portfolio-joao-pedro-sales.vercel.app/*  
 📦 Repositório: *(https://github.com/joaopedro-16/portfolio)*
 
 ---

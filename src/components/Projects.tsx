@@ -10,7 +10,7 @@ import soccerquizImg from '@/assets/projects/soccerquiz.png';
 
 const projects = [
   {
-    title: 'Soccer Quiz',
+    title: 'Aplicação de Quiz de Futebol (Mobile)',
     description: 'Plataforma mobile gamificada focada no ecossistema do futebol. Utilizei React Native e Ionic para criar uma interface moderna e responsiva. Gerenciamento de conteúdo estruturado via Strapi (CMS), permitindo uma gestão dinâmica e escalável das informações.',
     tech: ['React Native', 'Ionic', 'Strapi', 'TypeScript', 'Vite'],
     github: 'https://github.com/FormigTeen/eng-quiz',
